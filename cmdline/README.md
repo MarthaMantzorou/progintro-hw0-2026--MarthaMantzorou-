@@ -9,4 +9,7 @@ byte2:
 Αφού συνδέθηκα στον server με ssh χρησιμοποίησα την εντολή ls και εντόπισα το αρχείο shakespeare.txt.Μετά έκανα grep "will find" shakespeare.txt γιατί γνώριζα πως το κρυφό κείμενο περιέχει το "will find" και όντως μέσα στις γραμμές υπήρχε και το string.
 
 byte3:
-Αφούυ συνδέθηκα στον server με ssh χρησιμοποίησα την εντολή diff shakespeare.txt shakespeare.modified.txt και βρήκα το string.
+Αφού συνδέθηκα στον server με ssh χρησιμοποίησα την εντολή diff shakespeare.txt shakespeare.modified.txt και βρήκα το string.
+
+byte4:
+Αφού συνδέθηκα στον server με ssh χρησιμοποίησα την εντολή find -name "cup.txt".Στο αρχείο που εμφάνισε χρησιμοποίησα την εντολή cat και έτσι βρήκα το string.
